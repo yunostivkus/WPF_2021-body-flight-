@@ -59,8 +59,6 @@ namespace HelloApp
                 Console.WriteLine(e.Message);
             }
         }
-
-
     }
 }
 
